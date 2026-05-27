@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 22.05.2026
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+<img width="1042" height="462" alt="Screenshot 2026-05-27 081744" src="https://github.com/user-attachments/assets/26645ce8-557e-478c-aab2-6da9ae136e52" />
+<img width="1042" height="491" alt="Screenshot 2026-05-27 081755" src="https://github.com/user-attachments/assets/44026c21-4688-46dc-a354-dffbae1b1657" />
+<img width="1037" height="485" alt="Screenshot 2026-05-27 081811" src="https://github.com/user-attachments/assets/b897fbf7-bd7d-4f1c-b312-f3ae6349ed2d" />
 
-### Name:
-### Register Number:
+### Name: Sivamalaich Chelvan T
+### Register Number: 212225100051
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
