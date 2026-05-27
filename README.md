@@ -30,24 +30,12 @@
 ### 3.	Select the parts in sequence in which they are shown.
 ### 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
-
-## OUTPUT :
-
-## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
-
-## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
-
-## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
-
 ## Output:
+## Support Removal Process
 <img width="1042" height="462" alt="Screenshot 2026-05-27 081744" src="https://github.com/user-attachments/assets/26645ce8-557e-478c-aab2-6da9ae136e52" />
+## UV Curing of 3D printed part
 <img width="1042" height="491" alt="Screenshot 2026-05-27 081755" src="https://github.com/user-attachments/assets/44026c21-4688-46dc-a354-dffbae1b1657" />
+## Heat Treatment of 3D printed part
 <img width="1037" height="485" alt="Screenshot 2026-05-27 081811" src="https://github.com/user-attachments/assets/b897fbf7-bd7d-4f1c-b312-f3ae6349ed2d" />
 
 ### Name: Sivamalaich Chelvan T
