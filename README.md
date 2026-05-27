@@ -33,8 +33,10 @@
 ## Output:
 ## Support Removal Process
 <img width="1042" height="462" alt="Screenshot 2026-05-27 081744" src="https://github.com/user-attachments/assets/26645ce8-557e-478c-aab2-6da9ae136e52" />
+
 ## UV Curing of 3D printed part
 <img width="1042" height="491" alt="Screenshot 2026-05-27 081755" src="https://github.com/user-attachments/assets/44026c21-4688-46dc-a354-dffbae1b1657" />
+
 ## Heat Treatment of 3D printed part
 <img width="1037" height="485" alt="Screenshot 2026-05-27 081811" src="https://github.com/user-attachments/assets/b897fbf7-bd7d-4f1c-b312-f3ae6349ed2d" />
 
